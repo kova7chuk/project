@@ -1,0 +1,1 @@
+let stanislav = 'name';
